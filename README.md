@@ -8,3 +8,4 @@ Para deixar o processo mais interessante, estarei desenvolvendo um Diário do de
 # Diário
 
 ## Dia 1
+Para começar o desafio, escolhi um desafio simples, mas tive que estudar um pouco para conseguir receber o input de varias variaveis em python, no caso o uso de map foi a melhor solução. Tive alguns contra tempos por ter confundido as branchs, mas resolvi o problema.
