@@ -12,7 +12,8 @@ Original file is located at
 
 
 #Enunciado:
-'''Degustação de chá às escuras é a habilidade de identificar um chá usando apenas seus sentidos do olfato e paladar.
+'''
+Degustação de chá às escuras é a habilidade de identificar um chá usando apenas seus sentidos do olfato e paladar.
 
 Isto faz parte da Competição Ideal de Consumidores de Chá Puro (da sigla em inglês ICPC), que um programa de TV local está organizando.
 Durante o show, um bule de chá completo é preparado e são entregues uma xícara de chá para cada um dos cinco competidores. Os participantes devem cheirar,
@@ -26,7 +27,8 @@ A primeira linha contém um inteiro T representando o tipo de chá (1 ≤ T ≤ 
 que indica a resposta dada por cada competidor (1 ≤ A, B, C, D, E ≤ 4).
 
 Saída
-A saída contém um inteiro representando o número de concorrentes que obtiveram a resposta correta.'''
+A saída contém um inteiro representando o número de concorrentes que obtiveram a resposta correta.
+'''
 
 
 T = int(input())
