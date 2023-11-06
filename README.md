@@ -7,5 +7,8 @@ Para deixar o processo mais interessante, estarei desenvolvendo um Diário do de
 
 # Diário
 
-## Dia 1
+## Dia 1 - 05/11/2023
 Para começar o desafio, escolhi um desafio simples, mas tive que estudar um pouco para conseguir receber o input de varias variaveis em python, no caso o uso de map foi a melhor solução. Tive alguns contra tempos por ter confundido as branchs, mas resolvi o problema.
+
+## Dia 2 - 06/11/2023
+Para aumentar o desafiom escolhi uma atividade de criptografia, demorei cerca de 2 horas para conseguir resolver, foram várias etapas de criptografia, tive que utilizar de vários recursos da linguagem python,e busquei comentar melhor o código. Consegui atingir um bom resultado e espero aumentar a dificuldade.
