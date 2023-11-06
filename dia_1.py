@@ -45,5 +45,3 @@ for c in chas:
     contador +=1
 
 print(contador, '\n')
-
-#teste
