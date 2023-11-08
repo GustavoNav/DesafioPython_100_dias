@@ -15,3 +15,7 @@ Para aumentar o desafio, escolhi uma atividade de criptografia. Demorei cerca de
 
 ## Dia 3 - 07/11/2023
 Escolhi realizar mais uma atividade relacionada a strings. A principal dificuldade foi receber uma quantidade de dados não determinada por variáveis, sendo necessário criar a lógica de encerrar o processo no caso da ausência de linhas.
+--Update 08/11/2023: Correção de bug onde parenteses invertindos eram aceitos mesmo não fechados.
+
+## Dia 4 - 08/11/2023
+Dessa vez, realizei uma atividade envolvendo matemática. Aproveitei a oportunidade para utilizar tratamento de erros e testar operadores ternários. O resultado está agradável.
