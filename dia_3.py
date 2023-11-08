@@ -38,10 +38,13 @@ linhas = []
 
 #Entradas de linhas enquanto ouver linhas
 while True:
+  try:
     line = input()
     if not line:
-        break
+      break
     linhas.append(line)
+  except EOFError:
+    break
 
 #numero de parenteses aberto
 aberto = 0
@@ -49,10 +52,13 @@ aberto = 0
 fechado = 0
 for linha in linhas:
   for carac in linha:
-    if carac == '(':
-      aberto += 1
     if carac == ')':
       fechado += 1
+    if fechado > aberto:
+      fechado += 1
+      
+    if carac == '(':
+      aberto += 1
   if aberto == fechado:
     print("correct")
   else:
