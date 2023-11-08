@@ -12,22 +12,28 @@ Saída
 Para cada caso de teste de entrada, seu programa deve imprimir uma única linha, contendo um número que é a soma de ambos os fatoriais (de M e N).
 '''
 
-
+#estrutura para receber entradas enquanto não tiver EOF 
 while True:
     try:
+        #receber 2 entradas
         fa1, fa2 = map(int, input().split())
 
+        #operador ternário para definir valores para 1 em caso de 0
         fa1 = 1 if fa1 == 0 else fa1
         fa2 = 1 if fa1 == 0 else fa2
 
+        #variaveis para acumular valor do fatorial
         fa1Tot = 1
         fa2Tot = 1
+
+        #calcular fatorial 1
         for num in range(fa1, 0, -1):
             fa1Tot *= num
-
+        #calcular fatorial 2
         for num in range(fa2, 0, -1):
             fa2Tot *= num
 
+        #imprimir a soma dos dois fatorial
         print(fa1Tot + fa2Tot)
     except EOFError:
         break
