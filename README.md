@@ -19,3 +19,6 @@ Escolhi realizar mais uma atividade relacionada a strings. A principal dificulda
 
 ## Dia 4 - 08/11/2023
 Dessa vez, realizei uma atividade envolvendo matemática. Aproveitei a oportunidade para utilizar tratamento de erros e testar operadores ternários. O resultado está agradável.
+
+## Dia 5 - 09/11/2023
+Utilizei uma plataforma diferente para realizar a atividade. Foi necessário usar classes para a solução da atividade. Inicialmente, o algoritmo estava consideravelmente lento, mas após algumas otimizações, o tempo de execução foi reduzido pela metade.
