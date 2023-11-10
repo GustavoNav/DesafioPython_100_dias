@@ -22,3 +22,6 @@ Dessa vez, realizei uma atividade envolvendo matemática. Aproveitei a oportunid
 
 ## Dia 5 - 09/11/2023
 Utilizei uma plataforma diferente para realizar a atividade. Foi necessário usar classes para a solução da atividade. Inicialmente, o algoritmo estava consideravelmente lento, mas após algumas otimizações, o tempo de execução foi reduzido pela metade.
+
+## Dia 6 - 10/11/2023
+Uma atividade interessante, excelente para aproveitar as particularidades do Python na manipulação de strings. O código inicialmente seguia uma lógica de loops, porém, após uma análise mais aprofundada, consegui encontrar uma solução muito mais simples e eficiente utilizando manipulação de strings. Uma estrutura condicional foi capaz de lidar com valores negativos e reutilizar o restante do código.
