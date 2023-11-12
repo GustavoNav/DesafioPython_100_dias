@@ -1,9 +1,11 @@
 ## Desafio 100 dias
-Esse repositório trata-se de um desafio para melhorar minhas habilidades como programador.  
+Este repositório é um desafio para aprimorar minhas habilidades como programador.
 
-Ao longo de 100 dias, quero postar 1 atividade por dia de lógica de programação na linguagem Python. Para isso, vou utilizar o grande repositório de atividades do site Beecrowd, segue o link para o site: https://www.beecrowd.com.br/judge/pt/
+Ao longo de 100 dias, pretendo postar uma atividade por dia de lógica de programação na linguagem Python. Para isso, vou utilizar os repositórios de atividades dos sites Beecrowd e LeetCode, às vezes incorporando questões de algumas provas que eu fizer. Abaixo estão os links dos sites:
+Beecrowd: https://www.beecrowd.com.br/judge/pt/
+LeetCode: https://leetcode.com/problemset/all/
 
-Para tornar o processo mais interessante, estarei desenvolvendo um Diário do desafio, comentando sobre questões e desafios durante o desenvolvimento desses 100 dias
+Para tornar o processo mais interessante, estarei desenvolvendo um diário do desafio, comentando sobre questões e desafios enfrentados durante esses 100 dias de desenvolvimento.
 
 # Diário
 
@@ -26,5 +28,8 @@ Utilizei uma plataforma diferente para realizar a atividade. Foi necessário usa
 ## Dia 006 - 10/11/2023
 Uma atividade interessante, excelente para aproveitar as particularidades do Python na manipulação de strings. O código inicialmente seguia uma lógica de loops, porém, após uma análise mais aprofundada, consegui encontrar uma solução muito mais simples e eficiente utilizando manipulação de strings. Uma estrutura condicional foi capaz de lidar com valores negativos e reutilizar o restante do código.
 
-## Dia 7 - 11/11/2023
+## Dia 007 - 11/11/2023
 Dessa vez, escolhi algo que fiz durante um teste. Apesar de tê-lo feito em 15 minutos, foi uma atividade divertida para praticar o uso da tabela ASCII. Além disso, acredito ter desenvolvido um código bastante otimizado.
+
+## Dia 008 - 11/11/2023
+Uma oportunidade de aplicar conceitos de estatística em programação é sempre agregadora. A atividade tinha o requisito de que o código fosse otimizado; consegui a aprovação no LeetCode com um tempo de execução de 86 ms. Acredito que, em comparação com o primeiro dia, os códigos estão se tornando mais simples e diretos."
