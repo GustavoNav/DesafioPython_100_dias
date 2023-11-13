@@ -46,7 +46,7 @@ class Solution:
             #Se a lista ser impar, a media é simplismente a metade do indice + 1, o seu meio.
             result = merged[m + 1]
         else:
-            #Caso a lista seja par, precisamos somar os 2 numeros no meio e dividir por 2.
+            #Caso a lista seja par, precisamos somar os 2 numeros do meio e dividir por 2.
             result = (merged[m] + merged[m + 1]) / 2
         
         #Retornar a Mediana
