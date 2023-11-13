@@ -31,5 +31,8 @@ Uma atividade interessante, excelente para aproveitar as particularidades do Pyt
 ## Dia 007 - 11/11/2023
 Dessa vez, escolhi algo que fiz durante um teste. Apesar de tê-lo feito em 15 minutos, foi uma atividade divertida para praticar o uso da tabela ASCII. Além disso, acredito ter desenvolvido um código bastante otimizado.
 
-## Dia 008 - 11/11/2023
-Uma oportunidade de aplicar conceitos de estatística em programação é sempre agregadora. A atividade tinha o requisito de que o código fosse otimizado; consegui a aprovação no LeetCode com um tempo de execução de 86 ms. Acredito que, em comparação com o primeiro dia, os códigos estão se tornando mais simples e diretos."
+## Dia 008 - 12/11/2023
+Uma oportunidade de aplicar conceitos de estatística em programação é sempre agregadora. A atividade tinha o requisito de que o código fosse otimizado; consegui a aprovação no LeetCode com um tempo de execução de 86 ms. Acredito que, em comparação com o primeiro dia, os códigos estão se tornando mais simples e diretos.
+
+## Dia 009 - 13/11/2023
+Essa atividade exigiu a realização de pesquisas sobre formas eficientes de calcular potências, a fim de garantir que o código seja aceito. Inicialmente, ocorreu um erro de Limite de Tempo Excedido; no entanto, após algumas pesquisas, o uso da exponenciação binária mostrou-se a melhor solução. Eu deixei a fonte no código.
