@@ -20,6 +20,7 @@ def missingCharacters(s):
   for num in range(0,10):
       if str(num) not in listA:
           result += str(num)
+          
   #Buscar as letras nao presentes e adicionar ao resultado
   for letter in range(97, 123):
       if chr(letter) not in listA:
