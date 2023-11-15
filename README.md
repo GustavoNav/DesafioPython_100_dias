@@ -36,3 +36,9 @@ Uma oportunidade de aplicar conceitos de estatística em programação é sempre
 
 ## Dia 009 - 13/11/2023
 Essa atividade exigiu a realização de pesquisas sobre formas eficientes de calcular potências, a fim de garantir que o código seja aceito. Inicialmente, ocorreu um erro de Limite de Tempo Excedido; no entanto, após algumas pesquisas, o uso da exponenciação binária mostrou-se a melhor solução. Eu deixei a fonte no código.
+
+## Dia 010 - 14/11/2023
+"Esse desafio é uma demonstração de como o Python pode solucionar problemas com poucas linhas de código. Com apenas duas linhas contendo comandos simples, fui capaz de resolver esse problema. Inicialmente, tentei várias coisas mirabolantes; no entanto, a simplicidade foi a melhor solução mais uma vez.
+
+# Observação: 10 dias concluidos.
+E assim, eu termino o décimo dia desse desafio que me propus a realizar. Devo dizer que tenho me divertido muito até o momento, podendo me testar, aprender e otimizar meus conhecimentos de uma forma prazerosa. Espero continuar mantendo tudo em ordem, afinal, estou entrando em uma semana turbulenta e preciso me manter firme.
