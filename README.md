@@ -42,3 +42,6 @@ Essa atividade exigiu a realização de pesquisas sobre formas eficientes de cal
 
 # Observação: 10 dias concluidos.
 E assim, eu termino o décimo dia desse desafio que me propus a realizar. Devo dizer que tenho me divertido muito até o momento, podendo me testar, aprender e otimizar meus conhecimentos de uma forma prazerosa. Espero continuar mantendo tudo em ordem, afinal, estou entrando em uma semana turbulenta e preciso me manter firme.
+
+## Dia 011 - 15/11/2023
+Tive apenas uma dificuldade. Quando uso o 'for' para percorrer os elementos da lista e aplico o 'pop', ele passa para o próximo valor do índice, pulando um número. Isso faz com que os números que estou tentando remover, quando estão em sequência, não sejam removidos como esperado. No entanto, resolvi esse problema usando o 'while'.
