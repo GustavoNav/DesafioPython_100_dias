@@ -45,3 +45,6 @@ E assim, eu termino o décimo dia desse desafio que me propus a realizar. Devo d
 
 ## Dia 011 - 15/11/2023
 Tive apenas uma dificuldade. Quando uso o 'for' para percorrer os elementos da lista e aplico o 'pop', ele passa para o próximo valor do índice, pulando um número. Isso faz com que os números que estou tentando remover, quando estão em sequência, não sejam removidos como esperado. No entanto, resolvi esse problema usando o 'while'.
+
+## Dia 012 - 16/11/2023 
+Sem dúvida, esse foi o desafio mais difícil até o momento. Apesar de ter criado a lógica com agilidade, a estrutura de ListNode representou uma adversidade. Precisei pesquisar bastante para compreender essa estrutura de dados. As listas em Python já atuam como estruturas por trás, porém recriar uma por meio de classes é um pouco complicado. Demorei até entender o funcionamento, mas foi possível finalizar a atividade, recebendo a entrada em ListNode e devolvendo no mesmo formato.
