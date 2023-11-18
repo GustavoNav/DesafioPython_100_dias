@@ -51,3 +51,6 @@ Sem dúvida, esse foi o desafio mais difícil até o momento. Apesar de ter cria
 
 ## Dia 013 - 17/11/2023
 Esse desafio me proporcionou a oportunidade de explorar mais as funções do Python. É impressionante a quantidade de recursos já prontos que facilitam e aceleram as etapas de desenvolvimento.
+
+## Dia 014 - 18/11/2023
+Essa foi realmente difícil. O problema estava na quantidade de testes e tratamentos necessários para o código funcionar, pois existem muitas possibilidades de entradas que podem resultar em erro. Foi necessário realizar muitos testes, e gastei algumas horas nisso. Entretanto, acredito que cheguei a uma boa solução.
