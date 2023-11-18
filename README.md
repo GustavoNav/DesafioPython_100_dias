@@ -48,3 +48,6 @@ Tive apenas uma dificuldade. Quando uso o 'for' para percorrer os elementos da l
 
 ## Dia 012 - 16/11/2023 
 Sem dúvida, esse foi o desafio mais difícil até o momento. Apesar de ter criado a lógica com agilidade, a estrutura de ListNode representou uma adversidade. Precisei pesquisar bastante para compreender essa estrutura de dados. As listas em Python já atuam como estruturas por trás, porém recriar uma por meio de classes é um pouco complicado. Demorei até entender o funcionamento, mas foi possível finalizar a atividade, recebendo a entrada em ListNode e devolvendo no mesmo formato.
+
+## Dia 013 - 17/11/2023
+Esse desafio me proporcionou a oportunidade de explorar mais as funções do Python. É impressionante a quantidade de recursos já prontos que facilitam e aceleram as etapas de desenvolvimento.
