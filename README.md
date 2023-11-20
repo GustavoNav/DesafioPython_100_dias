@@ -54,3 +54,6 @@ Esse desafio me proporcionou a oportunidade de explorar mais as funções do Pyt
 
 ## Dia 014 - 18/11/2023
 Essa foi realmente difícil. O problema estava na quantidade de testes e tratamentos necessários para o código funcionar, pois existem muitas possibilidades de entradas que podem resultar em erro. Foi necessário realizar muitos testes, e gastei algumas horas nisso. Entretanto, acredito que cheguei a uma boa solução.
+
+## Dia 015 - 19/11/2023
+A lógica necessária para realizar isso é uma loucura. Tentei inúmeras coisas diferentes; em uma tentativa, utilizei mais de 20 condicionais e 5 variáveis em uma estrutura fora de série. No entanto, quanto mais eu tentava, menos complexo ficava, até chegar a essa simplicidade. Tive bastante problema com o índice; muitas vezes, estava próximo, mas não somava o último valor, ou não realizava a última subtração. Até que eu mudei o cálculo para algo ainda mais simples e com mais sentido. Por fim, com muita paciência o resultado veio.
