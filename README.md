@@ -57,3 +57,6 @@ Essa foi realmente difícil. O problema estava na quantidade de testes e tratame
 
 ## Dia 015 - 19/11/2023
 A lógica necessária para realizar isso é uma loucura. Tentei inúmeras coisas diferentes; em uma tentativa, utilizei mais de 20 condicionais e 5 variáveis em uma estrutura fora de série. No entanto, quanto mais eu tentava, menos complexo ficava, até chegar a essa simplicidade. Tive bastante problema com o índice; muitas vezes, estava próximo, mas não somava o último valor, ou não realizava a última subtração. Até que eu mudei o cálculo para algo ainda mais simples e com mais sentido. Por fim, com muita paciência o resultado veio.
+
+## Dia 016 - 20/11/2023
+Eu escolhi postar algo diferente, uma implementação do método RNA, onde posso sortear valores para P e Q ou escolher manualmente, e então calcular a chave publica e privada, além de ser possivel descriptografar valores criptografados com a chave privada.
