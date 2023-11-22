@@ -63,3 +63,6 @@ Eu escolhi postar algo diferente, uma implementação do método RNA, onde posso
 
 ## Dia 017 - 21/11/2023
 Essa é a continuação do meu código de criptografia, a parte anterior era reponsavel pela geração de chaves e descriptografia de strings. Já essa parte realiza a criptografia da string baseada na chave passada.
+
+## Dia 018 - 22/11/2023
+Mais um desafio excelente, embora eu tenha conseguido criar uma lógica para calcular a área relativamente rápido, o verdadeiro problema foi o tempo de execução, já que um dos casos de teste passava uma lista com milhares de valores. Mesmo tentando otimizar meu código várias vezes, percebi que seria necessário algum algoritmo para conseguir solucionar esse problema. Após pesquisar, encontrei a Técnica de Dois Ponteiros. Depois de implementar e testar, obtive sucesso no tempo de execução. Vou deixar aqui um link que fala mais a respeito desse algoritmo: https://acervolima.com/tecnica-de-dois-ponteiros/
