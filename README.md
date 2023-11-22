@@ -60,3 +60,6 @@ A lógica necessária para realizar isso é uma loucura. Tentei inúmeras coisas
 
 ## Dia 016 - 20/11/2023
 Eu escolhi postar algo diferente, uma implementação do método RNA, onde posso sortear valores para P e Q ou escolher manualmente, e então calcular a chave publica e privada, além de ser possivel descriptografar valores criptografados com a chave privada.
+
+## Dia 017 - 21/11/2023
+Essa é a continuação do meu código de criptografia, a parte anterior era reponsavel pela geração de chaves e descriptografia de strings. Já essa parte realiza a criptografia da string baseada na chave passada.
