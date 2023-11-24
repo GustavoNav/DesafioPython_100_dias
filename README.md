@@ -66,3 +66,6 @@ Essa é a continuação do meu código de criptografia, a parte anterior era rep
 
 ## Dia 018 - 22/11/2023
 Mais um desafio excelente, embora eu tenha conseguido criar uma lógica para calcular a área relativamente rápido, o verdadeiro problema foi o tempo de execução, já que um dos casos de teste passava uma lista com milhares de valores. Mesmo tentando otimizar meu código várias vezes, percebi que seria necessário algum algoritmo para conseguir solucionar esse problema. Após pesquisar, encontrei a Técnica de Dois Ponteiros. Depois de implementar e testar, obtive sucesso no tempo de execução. Vou deixar aqui um link que fala mais a respeito desse algoritmo: https://acervolima.com/tecnica-de-dois-ponteiros/
+
+## Dia -19 - 23/11/2023
+Atividades envolvendo matrizes sempre causam algumas dores de cabeça; é preciso projetar bem na imaginação o que você está fazendo. A lógica às vezes se torna um pouco complicada, mas eu particularmente acho divertido. Este teste de sudoku foi uma boa oportunidade para praticar matrizes.
