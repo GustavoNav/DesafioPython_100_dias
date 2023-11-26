@@ -75,3 +75,6 @@ Essa atividade foi por pura curiosidade mesmo, depois de assistir um video a res
 
 ## Dia 021 - 25/11/2023
 Uma solução simples, mas um problema meio chato de lidar, mecher com indices em matrizes sempre da um nó ou outro, mais foi relativamente tranquilo depois de um tempo pensando.
+
+## Dia 022 - 26/11/2023
+De todos esse foi o meu limite atual, o código não é exatamente o necessário, ficou limitado a ilhas de um unico tamanho. Apesar disso deu um desafio interessante, ao pesquisar e entender a solução dessa atividade da para agregar ainda mais ao meu aprendizado.
