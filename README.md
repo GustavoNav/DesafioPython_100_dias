@@ -74,4 +74,4 @@ Atividades envolvendo matrizes sempre causam algumas dores de cabeça; é precis
 Essa atividade foi por pura curiosidade mesmo, depois de assistir um video a respeito desses números "felizes" eu quis implementar um código para encontra-los, foi relativamente facil desenvolver o algóritmo, então deixei a dificuldade para a estrutura de repetição. Link do video: https://www.youtube.com/shorts/QJ5UsV7Fr2g
 
 ## Dia 021 - 25/11/2023
-Uma solução simples, mas um problema meio chato de lidar, mecher com indices em matrizes sempre da um outro nó, mais foi relativamente tranquilo depois de um tempo pensando.
+Uma solução simples, mas um problema meio chato de lidar, mecher com indices em matrizes sempre da um nó ou outro, mais foi relativamente tranquilo depois de um tempo pensando.
