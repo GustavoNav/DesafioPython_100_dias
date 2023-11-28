@@ -78,3 +78,6 @@ Uma solução simples, mas um problema meio chato de lidar, mecher com indices e
 
 ## Dia 022 - 26/11/2023
 De todos esse foi o meu limite atual, o código não é exatamente o necessário, ficou limitado a ilhas de um unico tamanho. Apesar disso deu um desafio interessante, ao pesquisar e entender a solução dessa atividade da para agregar ainda mais ao meu aprendizado.
+
+## Dia 023 - 27/11/2023
+O peso de Hamming é o número de bits definidos, que sejam equivalentes a 1, em um número inteiro. Esse foi o assunto do desafio desta vez. Tratou-se mais de uma atividade teórica e de leitura do que de codificação em si, mas aprendi esse conceito bastante interessante.
