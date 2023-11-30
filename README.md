@@ -81,3 +81,6 @@ De todos esse foi o meu limite atual, o código não é exatamente o necessário
 
 ## Dia 023 - 27/11/2023
 O peso de Hamming é o número de bits definidos, que sejam equivalentes a 1, em um número inteiro. Esse foi o assunto do desafio desta vez. Tratou-se mais de uma atividade teórica e de leitura do que de codificação em si, mas aprendi esse conceito bastante interessante.
+
+## Dia 024 - 29/11/2023
+O problema encontrado desta vez foi decidir a maneira de definir quantos loops seriam realizados. O método que encontrei para se adequar dinamicamente consumiu bastante tempo de execução, porém foi o suficiente para ser aceito. Depois de finalizado e ao verificar outras soluções, impressionei-me com as formas simples que encontraram para resolver, em menos de 5 linhas de código e com apenas 1 for.
