@@ -84,3 +84,6 @@ O peso de Hamming é o número de bits definidos, que sejam equivalentes a 1, em
 
 ## Dia 024 - 29/11/2023
 O problema encontrado desta vez foi decidir a maneira de definir quantos loops seriam realizados. O método que encontrei para se adequar dinamicamente consumiu bastante tempo de execução, porém foi o suficiente para ser aceito. Depois de finalizado e ao verificar outras soluções, impressionei-me com as formas simples que encontraram para resolver, em menos de 5 linhas de código e com apenas 1 for.
+
+## Dia 025 - 01/11/2023
+Listas encadeadas são realmente complicadas de se manipular, tive que novamente estudar bastante o conceito para conseguir resolver esse desafio, mas é bem simples no final, ponteiros apotando para espaços de memória, logo apenas inverta os valores desses espaços de memória.
