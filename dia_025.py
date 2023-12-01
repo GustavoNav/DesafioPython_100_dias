@@ -28,27 +28,15 @@ Output: [1]
 class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
-        # Iniciando a inversão dos pares
-        prev = None
+
+        if head is None or head.next is None:
+            return head 
+
         current = head
-
         while current and current.next:
-            # Salvando os nós que serão invertidos
-            first = current
-            second = current.next
+            # Trocando os valores dos nós
+            current.val, current.next.val = current.next.val, current.val
+            # Movendo para o próximo par
+            current = current.next.next
 
-            # Invertendo os pares
-            first.next = second.next
-            second.next = first
-
-            # Conectando o par invertido com o resto da lista
-            if prev:
-                prev.next = second
-            else:
-                head = second
-
-            # Atualizando os ponteiros para o próximo par
-            prev = first
-            current = first.next
-            
         return head
