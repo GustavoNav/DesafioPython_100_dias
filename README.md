@@ -87,3 +87,6 @@ O problema encontrado desta vez foi decidir a maneira de definir quantos loops s
 
 ## Dia 025 - 01/11/2023
 Listas encadeadas são realmente complicadas de se manipular, tive que novamente estudar bastante o conceito para conseguir resolver esse desafio, mas é bem simples no final, ponteiros apotando para espaços de memória, logo apenas inverta os valores desses espaços de memória.
+
+## Dia 026 - 02/12/2023
+Fazia um tempo que não fazia alguma atividade strings, é sempre divertido encontrar a lógica ideal, acho que cheguei a uma boa solução.
