@@ -90,3 +90,6 @@ Listas encadeadas são realmente complicadas de se manipular, tive que novamente
 
 ## Dia 026 - 02/12/2023
 Fazia um tempo que não fazia alguma atividade strings, é sempre divertido encontrar a lógica ideal, acho que cheguei a uma boa solução.
+
+## Dia 027 - 02/12/2023
+Mais dificil do que imaginei, trabalhar com anagramas é um pouco chato, mas ao organizar as palavras com "sorted()" o processo é bastante facilitado.
