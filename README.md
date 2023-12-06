@@ -96,3 +96,6 @@ Mais dificil do que imaginei, trabalhar com anagramas é um pouco chato, mas ao 
 
 ## Dia 028 - 05/12/2023
 Eu venho me desafiando bastante com ListNodes, mas isso ocorre porque é uma estrutura realmente chata de trabalhar, então quero a dominar, os resultados são satisfatórios até o momento, mais 2 dias e terei chegado a mais um marco desse grande desafio.
+
+## Dia 029 - 06/12/2023
+Depois de algumas tentativas frutadas e resolver o problema pela força bruta, foi necessário estudar um pouco atrás de algorítimos para resolver o problema de maior subsequência, o Algoritimo de Kadane. Deixarei um link aqui a respeito: https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d
