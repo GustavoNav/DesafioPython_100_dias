@@ -93,3 +93,6 @@ Fazia um tempo que não fazia alguma atividade strings, é sempre divertido enco
 
 ## Dia 027 - 03/12/2023
 Mais dificil do que imaginei, trabalhar com anagramas é um pouco chato, mas ao organizar as palavras com "sorted()" o processo é bastante facilitado.
+
+## Dia 028 - 05/12/2023
+Eu venho me desafiando bastante com ListNodes, mas isso ocorre porque é uma estrutura realmente chata de trabalhar, então quero a dominar, os resultados são satisfatórios até o momento, mais 2 dias e terei chegado a mais um marco desse grande desafio.
