@@ -99,3 +99,10 @@ Eu venho me desafiando bastante com ListNodes, mas isso ocorre porque é uma est
 
 ## Dia 029 - 06/12/2023
 Depois de algumas tentativas frutadas e resolver o problema pela força bruta, foi necessário estudar um pouco atrás de algorítimos para resolver o problema de maior subsequência, o Algoritimo de Kadane. Deixarei um link aqui a respeito: https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d
+
+## Dia 030 - 07/12/2023
+Essa atividade normalmente seria mais chata, mas acredito que minha facilidade em resolvê-la foi causada por experiências anteriores parecidas. No momento em que eu li o enunciado, percebi que o algoritmo bubble sort seria perfeito para solucionar, e dessa maneira foi.
+
+# Observação: 30 dias concluidos.
+Minha nossa, nem acredito que já se passaram 30 dias realizando atividades de programação em Python. Eu tive algumas dificuldades no meio do caminho, mas aqui estou, já aprendi muitas coisas, vi vários algoritmos, me sinto ótimo em fazer isso, com certeza vou continuar com isso.
+
