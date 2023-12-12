@@ -106,3 +106,5 @@ Essa atividade normalmente seria mais chata, mas acredito que minha facilidade e
 # Observação: 30 dias concluidos.
 Minha nossa, nem acredito que já se passaram 30 dias realizando atividades de programação em Python. Eu tive algumas dificuldades no meio do caminho, mas aqui estou, já aprendi muitas coisas, vi vários algoritmos, me sinto ótimo em fazer isso, com certeza vou continuar com isso.
 
+## Dia 031 - 11/12/2023
+Demorou algumas horas para encontrar a solução desse problema, uma atividade realmente complicada, mas depois de muitos testes e pesquisa acho que encontrei algo interessante, gostaria de otimizar mais o código, entretando não encontrei nada melhor.
