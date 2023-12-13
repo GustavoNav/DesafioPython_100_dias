@@ -108,3 +108,6 @@ Minha nossa, nem acredito que já se passaram 30 dias realizando atividades de p
 
 ## Dia 031 - 11/12/2023
 Demorou algumas horas para encontrar a solução desse problema, uma atividade realmente complicada, mas depois de muitos testes e pesquisa acho que encontrei algo interessante, gostaria de otimizar mais o código, entretando não encontrei nada melhor.
+
+## Dia 032 - 12/12/2023
+Desafio excelente para praticar manipulação de listas. Reutilizar a lista para adicionar os valores de subsets é uma excelente forma de resolver o problema.
