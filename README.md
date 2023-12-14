@@ -111,3 +111,6 @@ Demorou algumas horas para encontrar a solução desse problema, uma atividade r
 
 ## Dia 032 - 12/12/2023
 Desafio excelente para praticar manipulação de listas. Reutilizar a lista para adicionar os valores de subsets é uma excelente forma de resolver o problema.
+
+## Dia 033 - 13/12/2023
+Eu não imaginava que algo tão simples quanto a justificação de texto pudesse ser tão complicado. Levou algumas horas para conseguir criar a lógica para a justificação total, depois tive que criar um ‘for’ apenas para justificar à esquerda.
