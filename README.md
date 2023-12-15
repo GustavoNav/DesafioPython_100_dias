@@ -114,3 +114,6 @@ Desafio excelente para praticar manipulação de listas. Reutilizar a lista para
 
 ## Dia 033 - 13/12/2023
 Eu não imaginava que algo tão simples quanto a justificação de texto pudesse ser tão complicado. Levou algumas horas para conseguir criar a lógica para a justificação total, depois tive que criar um ‘for’ apenas para justificar à esquerda.
+
+## Dia 034 - 14/12/2023
+Inicialmente tive problemas com tempo de execução, estava com dois loops com em O(n^2), após algumas mudanças deu para reduzir o tempo para O(n).
