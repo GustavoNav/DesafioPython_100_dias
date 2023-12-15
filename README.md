@@ -117,3 +117,6 @@ Eu não imaginava que algo tão simples quanto a justificação de texto pudesse
 
 ## Dia 034 - 14/12/2023
 Inicialmente tive problemas com tempo de execução, estava com dois loops com em O(n^2), após algumas mudanças deu para reduzir o tempo para O(n).
+
+## Dia 035 - 15/12/2023
+Eu adoro trabalhar com listNode, é muito divertido manipular essas estruturas. Dessa vez eu consegui uma solução rapida e eficiente, acredito que seja uma evolução, comparado com minhas primeiras tentativas com esse tipo de estrutura, onde eu passei muito tempo estudando e testando.
