@@ -120,3 +120,6 @@ Inicialmente tive problemas com tempo de execução, estava com dois loops com e
 
 ## Dia 035 - 15/12/2023
 Eu adoro trabalhar com listNode, é muito divertido manipular essas estruturas. Dessa vez eu consegui uma solução rapida e eficiente, acredito que seja uma evolução, comparado com minhas primeiras tentativas com esse tipo de estrutura, onde eu passei muito tempo estudando e testando.
+
+## Dia 036 - 16/12/2023
+Remover valores de uma lista em Python pode gerar vários problemas de índice. Entretanto, encontrei uma forma segura, definindo uma lista com os valores que eu desejo remover e, então, realizando a remoção enquanto existirem valores dentro da lista. Felizmente, o código ficou mais eficiente do que eu imaginei. O tempo de execução deve ter ficado em O(n^2).
