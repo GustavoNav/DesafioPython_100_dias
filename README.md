@@ -123,3 +123,6 @@ Eu adoro trabalhar com listNode, é muito divertido manipular essas estruturas. 
 
 ## Dia 036 - 16/12/2023 - Remove Duplicates from Sorted Array
 Remover valores de uma lista em Python pode gerar vários problemas de índice. Entretanto, encontrei uma forma segura, definindo uma lista com os valores que eu desejo remover e, então, realizando a remoção enquanto existirem valores dentro da lista. Felizmente, o código ficou mais eficiente do que eu imaginei. O tempo de execução deve ter ficado em O(n^2).
+
+## Dia 037 - 18/12/2023 - Rotate Image
+Foi necessário estudar um pouco sobre algoritmos in-place, que se tratam de algoritmos nos quais não são criadas estruturas novas para armazenar o resultado da manipulação da original. É necessário fazer as modificações ao mesmo tempo que reutiliza a mesma estrutura.
