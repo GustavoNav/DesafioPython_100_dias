@@ -126,3 +126,6 @@ Remover valores de uma lista em Python pode gerar vários problemas de índice. 
 
 ## Dia 037 - 18/12/2023 - Rotate Image
 Foi necessário estudar um pouco sobre algoritmos in-place, que se tratam de algoritmos nos quais não são criadas estruturas novas para armazenar o resultado da manipulação da original. É necessário fazer as modificações ao mesmo tempo que reutiliza a mesma estrutura.
+
+## Dia 038 - 19/12/2023 - Longest Palindromic Substring
+A primeira tentativa funcionou bem, entretanto, enfrentei o problema de tempo de execução, o algorítmo ficou em O(n^3). Tive que realizar algumas pesquisas e encontrei o método de dinâmico, o qual possui uma eficiência de O(n^2).
