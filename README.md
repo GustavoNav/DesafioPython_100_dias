@@ -129,3 +129,6 @@ Foi necessário estudar um pouco sobre algoritmos in-place, que se tratam de alg
 
 ## Dia 038 - 19/12/2023 - Longest Palindromic Substring
 A primeira tentativa funcionou bem, entretanto, enfrentei o problema de tempo de execução, o algorítmo ficou em O(n^3). Tive que realizar algumas pesquisas e encontrei o método de dinâmico, o qual possui uma eficiência de O(n^2).
+
+## Dia 039 - 21/12/2023 - Binary Tree Postorder Traversal
+Hoje começei a estudar arvores binárias, estão a atividade foi relativamente simples, mais focada na teoria e compreensão do conceito.
