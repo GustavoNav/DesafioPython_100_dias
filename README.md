@@ -132,3 +132,6 @@ A primeira tentativa funcionou bem, entretanto, enfrentei o problema de tempo de
 
 ## Dia 039 - 21/12/2023 - Binary Tree Postorder Traversal
 Hoje começei a estudar arvores binárias, estão a atividade foi relativamente simples, mais focada na teoria e compreensão do conceito.
+
+## Dia 040 - 23/12/2023 - Insertion Sort List
+Atividade com lista singly linked list, após algumas tentativas consegui resolver a atividade utilizando a lógica do insertion sort.
