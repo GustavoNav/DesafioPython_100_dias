@@ -135,3 +135,6 @@ Hoje começei a estudar arvores binárias, estão a atividade foi relativamente 
 
 ## Dia 040 - 23/12/2023 - Insertion Sort List
 Atividade com lista singly linked list, após algumas tentativas consegui resolver a atividade utilizando a lógica do insertion sort.
+
+33 dIA 041 - 26/12/2023 - 3Sum
+Eu tive alguns problemas com algumas combinações que estavam sendo criadas, resolvi adicionando +1 aos valores iniciais dos indices. Apesar do código funcionar, ele sofre em desempenho com listas muito longas.
